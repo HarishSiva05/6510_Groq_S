@@ -1,0 +1,14 @@
+{
+    "access_hour": 15,
+    "hour": 15,
+    "day_of_week": 2,
+    "language": "en",
+    "month": 11,
+    "mode": 33188,
+    "day": 5,
+    "repository": "my_repo",
+    "year": 2024,
+    "repository_risk": 0.5,
+    "unusual_hour": 0,
+    "mode_category": 1
+}
